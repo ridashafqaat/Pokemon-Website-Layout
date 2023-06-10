@@ -1,2 +1,2 @@
 # Pokemon-Website-Layout
-This is  pokemon website clone in this website the special thing is navbar and this is also not responsive .
+This is my practice of pokemon website in this website clone the special thing is navbar and this is also not responsive .
